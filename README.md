@@ -25,9 +25,9 @@
 
 # Task Performed:
   1. Exploratory Data Analysis:
-     a. Missing Value Analysis
-     b. Outlier Treatment using the Z-score method
-     c. Dealing with correlated variables
+     * Missing Value Analysis
+     * Outlier Treatment using the Z-score method
+     * Dealing with correlated variables
   2. Performing dimensionality reduction using PCA such that the 95% of the variance is explained
   3. Finding the optimum value of k for k-means clustering using the elbow method. 
   4. Ploting the elbow curve
